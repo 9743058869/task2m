@@ -1,0 +1,20 @@
+h1{
+    border: 30px solid rgba(173, 22, 22, 0.527);
+    margin: 50px 50px ;
+    margin-top: 20px;
+    padding: 10px 20px 10px 20px ;
+    background-color: rgba(0, 0, 255, 0.719);
+    color: white;
+}
+.continer{
+    border: 10px solid black;
+    height: 500px;
+    width: 350px;
+    padding: 20px 10px 20px 10px;
+    background-color: red;
+}
+.a{
+    background-color: yellow;
+    border: 30px soild red;
+    color: black;
+}
